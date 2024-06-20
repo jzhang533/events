@@ -1,1 +1,19 @@
-# wave2024-opensource-forum
+# WaveSummit 2024 OpenSource Forum
+
+## Basic Info
+- WaveSummit HomePage: https://www.wavesummit.com.cn/
+- Where: 北京望京凯悦酒店
+- When: 2024-6-28
+
+## Froum Agenda
+| 时间        | 时长 | 演讲题目/环节                                                | 演讲人                   |
+| ----------- | ---- | ------------------------------------------------------------ | ------------------------ |
+| 16:00-16:15 | 15   | Collaboration between Open ATOM foundation and PaddlePaddle Community | 辛晓华                   |
+| 16:15-16:30 | 15   | 面向异构硬件的系统软件共性优化                               | 邵恩                     |
+| 16:30-16:45 | 15   | 飞桨社区有趣故事分享                                         | 孙钟恺                   |
+| 16:45-16:50 | 5    | 飞桨开源之星颁奖                                             | 张军（ @jzhang533 ）     |
+| 16:50-16:55 | 5    | 闪电演讲 A                                                   | 汪昕（ @GreatV ）        |
+| 16:55-17:00 | 5    | 闪电演讲 B                                                   | 卢畅（ @andsonder ）     |
+| 17:00-17:05 | 5    | 闪电演讲 C                                                   | 梁书豪（ @lshpku ）      |
+| 17:05-17:20 | 15   | 代码静态分析技术在深度学习框架上的研究与应用                 | 高庆                     |
+| 17:20-17:50 | 30   | Panel：开源社区发展探讨                                      | 张军、辛晓华、邵恩、高庆 |
