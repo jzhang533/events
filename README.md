@@ -18,6 +18,6 @@ Moderator：张军（ [@jzhang533](https://github.com/jzhang533) ）
 | 16:45-16:50 | 5    | 飞桨开源之星颁奖（10 [PaddlePaddle SUPERHERO](./recognition/superhero.png), and 6 [PaddlePaddle LONGRUNNER](./recognition/longrunner.png)） | 张军（  [@jzhang533](https://github.com/jzhang533) ）        |
 | 16:50-16:55 | 5    | 闪电演讲 从零开始的开源历程                                     | 汪昕（ [@GreatV](https://github.com/GreatV) ）               |
 | 16:55-17:00 | 5    | 闪电演讲 B                                                   | 卢畅（ [@andsonder](https://github.com/andsonder) ）         |
-| 17:00-17:05 | 5    | 闪电演讲 C                                                   | 梁书豪（ [@lshpku](https://github.com/lshpku) ）             |
+| 17:00-17:05 | 5    | 闪电演讲 我的开源第一步                                      | 梁书豪（ [@lshpku](https://github.com/lshpku) ）             |
 | 17:05-17:20 | 15   | 代码静态分析技术在深度学习框架上的研究与应用                 | 高庆                                                         |
 | 17:20-17:50 | 30   | Panel：开源社区发展探讨                                      | 张军、辛晓华、邵恩、高庆                                     |
